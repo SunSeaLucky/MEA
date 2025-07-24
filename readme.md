@@ -21,7 +21,7 @@ Illustration of the ideal proactive forensics pipeline and the threat posed by M
 </div>
 
 <div align="center">
-Overview of the proposed framework. Figure (a) illustrates the general proactive forensics pipeline. Figure (b) depicts our proposed Adversarial Interference Simulation (AIS), a model-agnostic training paradigm applicable to various proactive forensic methods. Figure (c) shows the Multi-Embedding Attacks (MEA), where the invisibility constraint of watermark embedding typically causes new watermarks to overwrite the original forensic information.</div>
+Overview of the proposed framework. </div>
 
 ## 📆 TODO LIST
 Our complete codebase will be released upon paper acceptance.
