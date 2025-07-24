@@ -8,7 +8,7 @@ With the rapid evolution of deepfake technologies and the wide dissemination of 
 ## 🚀 Introduction
 
 <div align="center">
-    <img width="1000" alt="image" src="figures/introduction.png?raw=true">
+    <img width="600" alt="image" src="figures/introduction.png?raw=true">
 </div>
 
 
@@ -17,7 +17,7 @@ Illustration of the ideal proactive forensics pipeline and the threat posed by M
 ## 📻 Overview
 
 <div align="center">
-    <img width="1000" alt="image" src="figures/network.png?raw=true">
+    <img width="1000" alt="image" src="figures/method.png?raw=true">
 </div>
 
 <div align="center">
