@@ -37,9 +37,10 @@ Our complete codebase will be released upon paper acceptance.
 
 `python -m pip install -r requirements.txt`
 
-### 2. Dataset Preparation
+### 2. Dataset and Baseline
 
-- We used several public deepfake datasets, as shown in the following table. You can enter the dataset website to download the original data.
+- We conduct experiments on the widely used high-quality [CelebA-HQ](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset You can enter the dataset website to download the original data.
+- we select a set of representative baseline methods, including [SepMark](https://github.com/sh1newu/SepMark), [LampMark](https://github.com/wangty1/LampMark), [WaveGuard](https://github.com/Twoh11/WaveGuard), [EditGuard](https://github.com/xuanyuzhang21/EditGuard), [MBRS](https://github.com/jzyustc/MBRS), and [HiDDeN](https://github.com/ando-khachatryan/HiDDeN).
 
 ### 3. Train
 
