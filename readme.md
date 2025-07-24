@@ -50,7 +50,7 @@ Upon Acceptance -> Codebase Liberation Activated 🔓
 Upon Acceptance -> Codebase Liberation Activated 🔓
 
 ### 5. Pretrained Model
-Upon Acceptance, we will provide the [pretrained model](https://drive.google.com/drive/folders/1EPY-uxIoA6a8ZHzbSlJ4Lg7Jm5rD6fsX?usp=drive_link) based on FaceForensics++. 
+Upon Acceptance, we will provide the pretrained model. 
 
 ## 🖼️ Visualization
 
